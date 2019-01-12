@@ -62,17 +62,17 @@
 
 .tree-grid .level-3 .indented {
 	position : relative;
-	left     : 40px;
+	left     : 400px;
 }
 
 .tree-grid .level-4 .indented {
 	position : relative;
-	left     : 60px;
+	left     : 600px;
 }
 
 .tree-grid .level-5 .indented {
 	position : relative;
-	left     : 80px;
+	left     : 800px;
 }
 
 .tree-grid .level-6 .indented {
